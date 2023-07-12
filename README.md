@@ -1,2 +1,2 @@
-# thestones
-Web front end for Rolling Stones album listing activity
+# qotd-frontend
+Front end HTML for Rolling Stones album list activity
